@@ -19,3 +19,4 @@ F450 frame :  https://amzn.to/3mnmKvg;
 
 ESC :  https://amzn.to/3blYzXT;
 
+![Diagram (1)](https://github.com/PriyanshuKotiyal/flight-controller/assets/156831570/e44d39f7-acc2-456c-8521-4c0a1a2a550d)
