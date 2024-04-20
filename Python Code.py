@@ -5,14 +5,17 @@ thr = 0
 kp = 175
 ki = 15
 kd = 121
-data = ""
+data = "100 100 100 100 175 125 122\n"
+prevdata = ""
 DATA = ""
-while True:
-        prevDATA = DATA
-        prevdata = data
+type1 = "a"
+type2 = "1"
+while True: 
         roll = 50
         pitch = 50
         yaw = 50
+        prevDATA = DATA
+        prevdata = data
         key = keyboard.get_hotkey_name()
         if key == "7":
             roll = 20
